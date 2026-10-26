@@ -1,0 +1,12 @@
+{"batch_id": "batch-1792448153-LxZIgctGTWuRqYDdi82a", "aufgabe": "haupt", "modell": "anthropic/claude-haiku-5.5", "prompt_version": "c2da46900f", "anfragen": 600, "erstellt": "2026-10-20T00:15:56"}
+{"batch_id": "batch-1792448191-E3YRj7c8rWlQb9ywGzjG", "aufgabe": "treue", "modell": "anthropic/claude-haiku-5.5", "prompt_version": "c2da46900f", "anfragen": 2000, "erstellt": "2026-10-20T00:16:34"}
+{"batch_id": "batch-1792448194-o0hok6YDjskwsXAANgs9", "aufgabe": "ohne_persona", "modell": "anthropic/claude-haiku-5.5", "prompt_version": "c2da46900f", "anfragen": 240, "erstellt": "2026-10-20T00:16:36"}
+{"batch_id": "batch-1792448153-LxZIgctGTWuRqYDdi82a", "abgeholt": "2026-10-20T00:23:19", "status": "completed", "kosten": 0.0318985}
+{"batch_id": "batch-1792448191-E3YRj7c8rWlQb9ywGzjG", "abgeholt": "2026-10-20T00:23:21", "status": "completed", "kosten": 0.106669}
+{"batch_id": "batch-1792448194-o0hok6YDjskwsXAANgs9", "abgeholt": "2026-10-20T00:23:53", "status": "completed", "kosten": 0.007666}
+{"batch_id": "batch-1792448705-K4mKXHCrXdZdBiXqlYQf", "aufgabe": "haupt", "modell": "anthropic/claude-haiku-5.5", "prompt_version": "c2da46900f", "anfragen": 10000, "erstellt": "2026-10-20T00:25:10"}
+{"batch_id": "batch-1792448716-NlnMu3iIf2drLzXuMIA0", "aufgabe": "haupt", "modell": "anthropic/claude-haiku-5.5", "prompt_version": "c2da46900f", "anfragen": 10000, "erstellt": "2026-10-20T00:25:21"}
+{"batch_id": "batch-1792448723-AXurhSJgFryrTgxYhrFY", "aufgabe": "haupt", "modell": "anthropic/claude-haiku-5.5", "prompt_version": "c2da46900f", "anfragen": 3400, "erstellt": "2026-10-20T00:25:26"}
+{"batch_id": "batch-1792448705-K4mKXHCrXdZdBiXqlYQf", "abgeholt": "2026-10-20T00:42:44", "status": "completed", "kosten": 0.53219525}
+{"batch_id": "batch-1792448716-NlnMu3iIf2drLzXuMIA0", "abgeholt": "2026-10-20T00:42:47", "status": "completed", "kosten": 0.531756}
+{"batch_id": "batch-1792448723-AXurhSJgFryrTgxYhrFY", "abgeholt": "2026-10-20T00:42:49", "status": "completed", "kosten": 0.18079025}

@@ -1,0 +1,96 @@
+{
+  "format": "matraix_persona_1m_coreset",
+  "format_version": 1,
+  "created_at": "2026-07-21T07:28:33.187914+00:00",
+  "seed": 20260720,
+  "rows": 999847,
+  "sources": {
+    "wiki": 323438,
+    "amazon": 97915,
+    "stackoverflow": 113120,
+    "prism": 1487,
+    "gss": 63532,
+    "real_human_survey": 355,
+    "synthetic": 400000
+  },
+  "human_grounded_rows": 599847,
+  "synthetic_rows": 400000,
+  "files": [
+    {
+      "path": "data/persona-1m-0000.parquet",
+      "rows": 100000,
+      "bytes": 1135877520,
+      "sha256": "99f7cff790a5dc7c83a1f4cdfc34bb09962ebf526fe645f7bf29965131a2dab2"
+    },
+    {
+      "path": "data/persona-1m-0001.parquet",
+      "rows": 100000,
+      "bytes": 1003083203,
+      "sha256": "5677bb4338bd7093d71737fd047a5138a8ada7d95f744f1406ed3cc70c4de926"
+    },
+    {
+      "path": "data/persona-1m-0002.parquet",
+      "rows": 100000,
+      "bytes": 1033556644,
+      "sha256": "845aa8588a6f0dc397a5d1923dea803a7ade905289762cbf6f6931dff59f9d27"
+    },
+    {
+      "path": "data/persona-1m-0003.parquet",
+      "rows": 100000,
+      "bytes": 490983173,
+      "sha256": "b1b9177571e14bfbee867c1d430bfc30a0e16f121defe6718a9ca236fe391474"
+    },
+    {
+      "path": "data/persona-1m-0004.parquet",
+      "rows": 100000,
+      "bytes": 212864655,
+      "sha256": "fc6f441f8d5a954f9aaec146b8cafc094740dfd553b17b066585aed6d5d481fa"
+    },
+    {
+      "path": "data/persona-1m-0005.parquet",
+      "rows": 99847,
+      "bytes": 140200105,
+      "sha256": "27e7a517df0a579708a3b53ec3f6dd580168cf1820d9455637822bdbcee6f8b9"
+    },
+    {
+      "path": "data/persona-1m-0006.parquet",
+      "rows": 100000,
+      "bytes": 37785027,
+      "sha256": "602cfb8baf198ca9cef778f5508340695e963dfcdb5e97fd2f0fc277cff39b83"
+    },
+    {
+      "path": "data/persona-1m-0007.parquet",
+      "rows": 100000,
+      "bytes": 37790645,
+      "sha256": "e009eaf3c866fa3adc262fbda3410a75514227ea61383ef1be856ff6b2c5adbf"
+    },
+    {
+      "path": "data/persona-1m-0008.parquet",
+      "rows": 100000,
+      "bytes": 37796239,
+      "sha256": "657b73c12b69090e35efbd60968308a619b49d0cb27d958b21cc27a55353c39d"
+    },
+    {
+      "path": "data/persona-1m-0009.parquet",
+      "rows": 100000,
+      "bytes": 37792551,
+      "sha256": "a1f7453b5b10d8bc438f2bff2e92cae516e14215fc2afe766eed3f9d1e3b480c"
+    }
+  ],
+  "bytes": 4167729762,
+  "validation": {
+    "rows": 999847,
+    "sources": {
+      "wiki": 323438,
+      "amazon": 97915,
+      "stackoverflow": 113120,
+      "prism": 1487,
+      "gss": 63532,
+      "real_human_survey": 355,
+      "synthetic": 400000
+    },
+    "description_rows": 422590,
+    "description_coverage": 0.42259,
+    "mean_populated_attributes": 656.011444
+  }
+}
